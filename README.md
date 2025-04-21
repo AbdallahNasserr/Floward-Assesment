@@ -137,3 +137,24 @@ order by order_date
 ```
 ![image](https://github.com/user-attachments/assets/9c8b5d45-5be9-4888-a8b5-5eaf8dbb59f4)
 
+
+
+
+# Power BI Task 📊 
+[🔗 View Power BI Report - Floward Checkout Analysis](https://app.powerbi.com/view?r=eyJrIjoiZjFhMzU0YjQtYjAzOC00NjI2LTg0MmEtMzRjN2EzNGEzMzA5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
+
+
+![image](https://github.com/user-attachments/assets/a8389af3-4c15-419d-99e2-ed31386169ab)
+![image](https://github.com/user-attachments/assets/c067f47c-ce9e-4070-a0e0-0562ccce60b4)
+![image](https://github.com/user-attachments/assets/da5737ac-f9b2-4909-9e69-7af3b39bc119)
+
+
+# Floward Checkouts Failures Presentation
+[🔗 View Presentation - Floward Checkout Analysis](https://www.canva.com/design/DAGlNpVu_E8/xbZGLFgqTV90zorkpXHJqQ/edit?utm_content=DAGlNpVu_E8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
+![image](https://github.com/user-attachments/assets/209c0b61-7d32-471b-bafd-619189c00904)
+
+
+
+
